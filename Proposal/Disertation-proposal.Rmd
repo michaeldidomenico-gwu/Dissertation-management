@@ -1,0 +1,48 @@
+---
+title: "Dissertation-Proposal"
+author: "Michael DiDomenico"
+date: "6/18/2019"
+output: pdf_document
+---
+
+
+
+## Introduction
+
+- People are not going to college at high enough rates
+  - In general it is a good investment with respect to earnings and maybe some other non-financial outcomes
+
+- Reasons people don't go to college (focus on low-income in general): 
+  - Things I don't deal with including poor academic preparation
+  - Interest in a job over school (almost a financial concern, but not the same. It's not that they think college is too expensive they just want a job even if college was cheap)
+  - Financial concerns including:
+    - Cost of applications
+    - Loan/debt aversion
+    - Misunderstanding of out of pocket costs
+    - Unfamiliarity with financial aid system
+    - Intertemporal discounting
+    - Scarcity/pressure to provide for family now
+  - Not completing certain tasks/hassle factors
+    - Summer melt types of activities
+
+- Prior work on effectiveness of aid at increasing rates of enrollment
+
+- Prior work on effectiveness of light-touch communication on modifying behavior (this perhaps is more detailed in each of the three papers?)
+  - HR Block
+  - Various pieces by Turner
+
+Gap in the literature
+  - This focuses on people who are in federally assisted housing with pro-active outreach. The population includes students (and others) who are likley not targeted by other interventions that rely on some kind of recruitment mechanism.
+  - A series of pilots testing variations of the same concept: low-cost communications to encourage a specific action, in this case FAFSA completion. Different mechanisms (format and sender) and dosage are investigated. Together, they create a good base of evidence for answering the question: can PHAs increase FAFSA completion with low-cost communications?
+
+Limitations
+  -
+
+- These three papers deal with the financial piece focused on FAFSA completion.    
+    
+    
+# FAFSA Completion Letters: Messenger and Format Experiment
+
+# FAFSA Completion Letter: Synthetic Control Method
+
+# FAFSA Completion: Multi-mode, Multi-contact Experiment
